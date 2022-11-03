@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jhonatansrosa
 - 👀 I’m interested in  aprender a programar 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on  em projetos de Python para CRM e dado
+- 🌱 I’m currently learning Python, Front End is Power Bi
+- 💞️ I’m looking to collaborate on  em projetos de Python e Front End
 - 📫 How to reach me . jhonatanasrosa@hotmail.com, jhonatanaugusto@bb.com.br
 
 <!---
